@@ -1,0 +1,10 @@
+# Recorded versions used for the local completed experiments (Python 3.12.2).
+# These document that environment; pyproject.toml specifies supported lower bounds.
+numpy==2.5.4
+pandas==3.0.6
+pyarrow==26.0.1
+duckdb==2.0.0
+scikit-learn==1.9.1
+matplotlib==3.11.2
+joblib==1.6.0
+ipykernel==7.4.0
